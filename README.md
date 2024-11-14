@@ -1,2 +1,2 @@
-# BE_POO_Template
+# BE_POO
 Projet de base pour Ardouino
